@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182308799338",
+    "project_id": "arracommunication-25880",
+    "storage_bucket": "arracommunication-25880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182308799338:android:acf73d23b72b50cfa45b13",
+        "android_client_info": {
+          "package_name": "com.app.arra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182308799338-laelumv14rgj8f3f681nrt1mc42n0vb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_NQUIpyAHJtkzRI66qbE23wgPjsFbqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182308799338-laelumv14rgj8f3f681nrt1mc42n0vb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
